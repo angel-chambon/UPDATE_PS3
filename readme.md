@@ -1,5 +1,7 @@
 CE PROGRAMME VOUS PERMET DE CREER FAIRE LA CLE USB POUR METTRE A JOUR VOTRE PS3.
 
+Lancer simplement le fichier launch.bat
+
 Voici ce qu'il fait:
     - Il télécharge le fichier de mise à jour via le site de playstation
     - Il crée l'arborescence adéquate
